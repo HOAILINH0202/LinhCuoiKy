@@ -1,7 +1,7 @@
 <?php 
     class database{
         public $conn;
-        protected $severName  = "mysql:host=btnzzdvbvjiqdgrmmpqw-mysql.services.clever-cloud.com;dbname=btnzzdvbvjiqdgrmmpqw";
+        protected $severName  = "mysql:host=btnzzdvbvjiqdgrmmpqw-mysql.services.clever-cloud.com";
         protected $userName = "ujhk7y67wmvmwjap";
         protected $passWord = "9OJY8rWQFENmK8QAve8I";
         protected $databaseName = "btnzzdvbvjiqdgrmmpqw";
