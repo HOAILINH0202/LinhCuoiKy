@@ -1,10 +1,10 @@
 <?php 
     class database{
         public $conn;
-        protected $severName  = "localhost";
-        protected $userName = "root";
-        protected $passWord = "";
-        protected $databaseName = "php";
+        protected $severName  = "mysql:host=btnzzdvbvjiqdgrmmpqw-mysql.services.clever-cloud.com;dbname=btnzzdvbvjiqdgrmmpqw";
+        protected $userName = "ujhk7y67wmvmwjap";
+        protected $passWord = "9OJY8rWQFENmK8QAve8I";
+        protected $databaseName = "btnzzdvbvjiqdgrmmpqw";
 
         function __construct()
         {
